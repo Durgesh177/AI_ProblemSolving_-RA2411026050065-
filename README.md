@@ -55,3 +55,8 @@ An AI-powered Tic-Tac-Toe game where the computer always makes the best move.
 ### How to Run
 cd Problem2_TicTacToe  
 python app.py
+
+## 👨‍💻 Team Members
+
+- Bennu Durgesh – (RA2411026050065)
+- Neeraj – (RA2411026050023)
