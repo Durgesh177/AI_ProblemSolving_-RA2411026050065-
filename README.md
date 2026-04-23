@@ -1,22 +1,22 @@
-1# AI_ProblemSolving_-RA2411026050065-RA2411026050023-
+AI_ProblemSolving_-RA2411026050065-RA2411026050023-
 
-✔ Problem 1 Completed Successfully
+Problem 1 Completed Successfully
 
-## 📌 Problem 1: Smart Navigation System (BFS & DFS)
+📌 Problem 1: Smart Navigation System (BFS & DFS)
 
-### 🔍 Description
+🔍 Description
 This project implements a smart navigation system that finds a path between two nodes in a graph. The user provides start node, goal node, and connections between nodes.
 
-### ⚙️ Algorithms Used
+⚙️ Algorithms Used
 - Breadth First Search (BFS)
 - Depth First Search (DFS)
 
-### 🖥️ Features
+🖥️ Features
 - Dynamic graph creation using user input
 - Path finding using BFS and DFS
 - Web-based interactive interface
 
-### ▶️ How to Run
+▶️ How to Run
 1. Navigate to the folder:
    cd Problem1_SmartNavigation
 
@@ -29,35 +29,50 @@ This project implements a smart navigation system that finds a path between two 
 4. Open in browser:
    http://127.0.0.1:5000/
 
-### 🧪 Sample Input
+🧪 Sample Input
 - Start Node: A  
 - Goal Node: D  
 - Edges: A-B, B-C, C-D  
 
-### 📊 Output
+📊 Output
 - BFS Path: ['A', 'B', 'C', 'D']  
 - DFS Path: ['A', 'B', 'C', 'D']
   
-✔ Problem 2 Completed Successfully
+Problem 2 Completed Successfully
   
-## Problem 2: Tic-Tac-Toe AI
+📌Problem 2: Tic-Tac-Toe AI
 
-### Description
+Description
 An AI-powered Tic-Tac-Toe game where the computer always makes the best move.
 
-### Algorithm Used
+Algorithm Used
 - Minimax Algorithm
 
-### Features
+Features
 - Interactive UI
 - AI vs Player gameplay
 - Optimal decision-making
 
-### How to Run
+How to Run
 cd Problem2_TicTacToe  
 python app.py
 
-## 👨‍💻 Team Members
+🔹 Problem 2: Tic-Tac-Toe AI
+
+Input:
+User clicks position: 0  
+
+Output:
+AI responds automatically  
+
+Board:
+X | O |  
+--|---|--  
+  |   |  
+--|---|--  
+  |   |  
+
+👨‍💻 Team Members
 
 - Bennu Durgesh – (RA2411026050065)
 - Neeraj – (RA2411026050023)
